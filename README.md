@@ -103,3 +103,7 @@ You can switch between all 3 stakeholder roles instantly using the top navigatio
 ---
 *SmartLedger AI ERP — Production-Grade MERN + PyTorch Ecosystem*
 
+## Contributors
+- Gobi Krishna - Original author
+- Krishna Prabu R - Setup, testing and documentation
+
